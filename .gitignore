@@ -1,0 +1,20 @@
+# Eclipse specific files
+.classpath
+.project
+.settings/
+
+# MacOS specific files
+.DS_Store
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# Build directories
+bin/
+target/
+out/
